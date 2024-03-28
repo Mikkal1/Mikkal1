@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mikkal1 AKA Michael Ramcharitar
-- 👀 I’m interested in coding, cybersecurity
+- 👀 Love the concept of coding, cybersecurity
 - 🌱 I have earned my coding certification
 - 
 <!---
